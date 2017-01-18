@@ -1,0 +1,88 @@
+{
+    "regressions": [
+        [
+            "benchmarks.StartupSuite.time_import", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2623 v3 @ 3.00GHz/machine-yoh@smaug/os-Linux 4.9.0-rc2+/python-3.4/ram-128GB/benchmarks.StartupSuite.time_import.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2623 v3 @ 3.00GHz", 
+                "machine": "yoh@smaug", 
+                "os": "Linux 4.9.0-rc2+", 
+                "python": "3.4", 
+                "ram": "128GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        162, 
+                        0.025670131016522647, 
+                        0.05126465512439608
+                    ], 
+                    [
+                        null, 
+                        374, 
+                        0.05126465512439608, 
+                        0.08447816083207726
+                    ], 
+                    [
+                        null, 
+                        1630, 
+                        0.08447816083207726, 
+                        0.09929569447413086
+                    ], 
+                    [
+                        null, 
+                        2701, 
+                        0.09929569447413086, 
+                        0.20734833739697933
+                    ], 
+                    [
+                        null, 
+                        4778, 
+                        0.08903971458785236, 
+                        0.10966468648985028
+                    ]
+                ], 
+                0.10966468648985028, 
+                0.025670131016522647
+            ]
+        ], 
+        [
+            "benchmarks.StartupSuite.time_help_np", 
+            "graphs/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2623 v3 @ 3.00GHz/machine-yoh@smaug/os-Linux 4.9.0-rc2+/python-2.7/ram-128GB/benchmarks.StartupSuite.time_help_np.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2623 v3 @ 3.00GHz", 
+                "machine": "yoh@smaug", 
+                "os": "Linux 4.9.0-rc2+", 
+                "python": "2.7", 
+                "ram": "128GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        471, 
+                        0.03361001014709473, 
+                        0.20625996589660645
+                    ], 
+                    [
+                        null, 
+                        1099, 
+                        0.20625996589660645, 
+                        0.3374819755554199
+                    ], 
+                    [
+                        null, 
+                        1891, 
+                        0.3374819755554199, 
+                        0.3826420307159424
+                    ]
+                ], 
+                0.3826420307159424, 
+                0.03361001014709473
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 7.782025083239812e-05, 
+        "last_rev": 4860, 
+        "last_value": 0.0009605860007771602, 
+        "name": "benchmarks.RunnerSuite.time_echo", 
+        "pretty_name": "benchmarks.RunnerSuite.time_echo", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.00012365272252484123, 
+        "last_rev": 4860, 
+        "last_value": 0.0014096856660520036, 
+        "name": "benchmarks.RunnerSuite.time_echo_gitrunner", 
+        "pretty_name": "benchmarks.RunnerSuite.time_echo_gitrunner", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.06316693251762816, 
+        "last_rev": 4860, 
+        "last_value": 0.3231747639996077, 
+        "name": "benchmarks.StartupSuite.time_help_np", 
+        "pretty_name": "benchmarks.StartupSuite.time_help_np", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.013797767481904614, 
+        "last_rev": 4860, 
+        "last_value": 0.06350508433145781, 
+        "name": "benchmarks.StartupSuite.time_import", 
+        "pretty_name": "benchmarks.StartupSuite.time_import", 
+        "prev_value": null
+    }, 
+    {
+        "change_rev": null, 
+        "idx": null, 
+        "last_err": 0.04933623448165168, 
+        "last_rev": 4860, 
+        "last_value": 0.18592137566398984, 
+        "name": "benchmarks.StartupSuite.time_import_api", 
+        "pretty_name": "benchmarks.StartupSuite.time_import_api", 
+        "prev_value": null
+    }
+]
